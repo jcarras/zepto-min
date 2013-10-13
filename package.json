@@ -1,0 +1,12 @@
+{
+  "name": "zepto-v10-min",
+  "version": "1.0.0",
+  "description": "zepto version 1.0 minified",
+  "main": "zepto.min.js",
+  "author": "Thomas Fuchs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jcarras/zepto-v10-min.git"
+  }
+}
