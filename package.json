@@ -1,6 +1,6 @@
 {
   "name": "zepto-min",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "zepto version 1.0 minified",
   "main": "zepto.min.js",
   "author": "Thomas Fuchs",
